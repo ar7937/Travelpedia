@@ -1,0 +1,146 @@
+.btn-info{
+    font: inherit; 
+padding: 0.5rem 1.5rem; 
+border: 1px solid #00ff9d; 
+border-radius: 4px; 
+background: #00ff9d; 
+color: black; cursor: pointer; 
+margin-right: 1rem; 
+text-decoration: none; 
+Display:
+ inline-block;
+
+}
+.btn-edit{
+    font: inherit; 
+padding: 0.5rem 1.5rem; 
+border: 1px solid #00eeff; 
+border-radius: 4px; 
+background: #00eeff; 
+color: black; cursor: pointer; 
+margin-right: 1rem; 
+text-decoration: none; 
+Display:
+ inline-block;
+}
+.btn-delete{
+    font: inherit; 
+padding: 0.5rem 1.5rem; 
+border: 1px solid #ff2f00; 
+border-radius: 4px; 
+background: #ff2f00; 
+color: white; cursor: pointer; 
+margin-right: 1rem; 
+text-decoration: none; 
+Display:
+ inline-block;
+}
+.btn-submit{
+    font: inherit; 
+    width: 50%;
+    padding: 0.5rem 1.5rem; 
+    border: 1px solid #ff2f00; 
+    border-radius: 4px; 
+    background: #ff2f00; 
+    color: white; cursor: pointer; 
+    margin-right: 1rem; 
+    text-decoration: none; 
+    Display:
+     inline-block;
+     margin-left: 15rem;
+    cursor:not-allowed;
+    margin-left:5rem;
+    }
+    .btn-submit-correct{
+        font: inherit; 
+        padding: 0.5rem 1.5rem; 
+        border: 1px solid #ff2f00; 
+        border-radius: 4px; 
+        background: #ff2f00; 
+        color: white; cursor: pointer; 
+        margin-right: 1rem; 
+        text-decoration: none; 
+        Display:
+         inline-block;
+         margin-left: 15rem;
+         pointer-events:fill
+        }
+    .signin-btn{
+        font: inherit; 
+        padding: 0.5rem 1.5rem; 
+        border: 1px solid #ff2f00; 
+        border-radius: 4px; 
+        background: #ff2f00; 
+        color: white; cursor: pointer; 
+        margin-right: 1rem; 
+        text-decoration: none; 
+        Display:
+         inline-block;
+      
+    }
+    .login-btn{
+        font: inherit; 
+        padding: 0.5rem 1.5rem; 
+        border: 1px solid #ff2f00; 
+        border-radius: 4px; 
+        background: #ff2f00; 
+        color: white; cursor: pointer; 
+        margin-right: 1rem; 
+        text-decoration: none; 
+        Display:
+         inline-block;
+        
+    }
+    .btn-cancel{
+        font: inherit; 
+        padding: 0.5rem 1.5rem; 
+        border: 1px solid #005e22; 
+        border-radius: 4px; 
+        background: #005e22; 
+        color: white; cursor: pointer; 
+        margin-right: 1rem; 
+        text-decoration: none; 
+        Display:
+         inline-block;
+    }
+    .logout{
+        font: inherit; 
+padding: 0.5rem 1.5rem; 
+border: 1px solid #4a7364; 
+border-radius: 4px; 
+
+color: black; cursor: pointer; 
+margin-right: 1rem; 
+text-decoration: none; 
+Display:
+ inline-block;
+    }
+    .logout :hover{
+        font: inherit; 
+padding: 0.5rem 1.5rem; 
+border: 1px solid #4a7364; 
+border-radius: 4px; 
+background-color: wheat;
+color: black; cursor: pointer; 
+margin-right: 1rem; 
+text-decoration: none; 
+Display:
+ inline-block;
+    }
+@media (max-width:600px){
+    .btn-submit{
+        font: inherit; 
+        width: 50%;
+        padding: 0.5rem 1.5rem; 
+        border: 1px solid #ff2f00; 
+        border-radius: 4px; 
+        background: #ff2f00; 
+        color: white; cursor: pointer; 
+        margin-right: 1rem; 
+        text-decoration: none; 
+        Display:
+         inline-block;
+         margin-left: 5rem;
+        cursor:not-allowed
+        }
+}
